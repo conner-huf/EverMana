@@ -1,0 +1,7 @@
+## Interface: 11501
+## Title: EverMana
+## Notes: Displays current mana level while in druid forms
+## Author: conner-huf
+## Version: 1.0.0
+
+EverMana.lua
