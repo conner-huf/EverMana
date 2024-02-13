@@ -7,7 +7,7 @@ Also, has a a pretty sweet name.
 
 - Conner
 
-#### How to install an Addon:
+## How to install an Addon:
 - Open your file explorer and locate your World of Warcraft install location. (Look in "This PC", then any drives you may have installed into. The default is in "C:" in a folder titled "World of Warcraft".
 - Double-click the folder and you'll find the different WoW versions. For this Addon, you'd be navigating to "classic_era".
 - Double-click the folder for whichever version you're playing, then double-click the "Interface" folder.
